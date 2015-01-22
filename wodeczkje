@@ -1,0 +1,5 @@
+if vodka;
+then pijemy;
+else
+echo: idz do dom;
+endif;
